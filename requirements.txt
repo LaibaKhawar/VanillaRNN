@@ -1,0 +1,8 @@
+datasets
+gensim
+jupyter
+matplotlib
+numpy
+scikit-learn
+seaborn
+torch
